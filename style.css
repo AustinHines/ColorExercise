@@ -33,10 +33,17 @@ p {
     background-color: violet;
 }
 
-.one-li {
+
+
+li:nth-child(1){
     color: hotpink;
+    border: 5px solid green;
+
+
 }
 
-.two-li {
+li:nth-child(3) {
     color: peachpuff;
+    border: 5px solid green;
 }
+
