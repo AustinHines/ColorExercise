@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+    background-color: red;
+}
+
+h2 {
+    color: #111163f1;
+    background-color: orange;
+}
+
+h3 {
+    color:rgb(24, 244, 255);
+    background-color: yellow;
+}
+
+h4 {
+    color: rgba(14, 211, 111, 0.5);
+    background-color: green;
+}
+
+h5 {
+    color: seagreen;
+    background-color: blue;
+}
+
+h6 {
+    color: #6281f5;
+    background-color: indigo;
+}
+
+p {
+    color: white;
+    background-color: violet;
+}
+
+.one-li {
+    color: hotpink;
+}
+
+.two-li {
+    color: peachpuff;
+}
