@@ -43,7 +43,7 @@ li:nth-child(1){
 }
 
 li:nth-child(3) {
-    color: peachpuff;
+    background-color: peachpuff;
     border: 5px solid green;
 }
 
